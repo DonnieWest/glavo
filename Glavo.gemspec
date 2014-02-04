@@ -6,7 +6,7 @@ require 'Glavo/version'
 Gem::Specification.new do |spec|
   spec.name          = "Glavo"
   spec.version       = Glavo::VERSION
-  spec.authors       = ["Donnie West", "Zebulin Deos"]
+  spec.authors       = ["Donnie West", "Zebulin DeOs"]
   spec.email         = ["Donniewest@outlook.com" , "zebdeos@bayprogrammer.com"]
   spec.summary       = %q{A tool for Biblical & Theological research}
   spec.description   = %q{Glavo is the Esperanto word for Sword. Glavo
